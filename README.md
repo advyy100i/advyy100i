@@ -1,74 +1,184 @@
-<h1 align="center">Hi 👋, I'm a Software Developer</h1>
-<h3 align="center">Full-Stack & Systems Engineer</h3>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            HEADER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-DSA%20%26%20System%20Design-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/LeetCode-280%2B%20solved-orange?style=flat-square&logo=leetcode&logoColor=white" />
-  <img src="https://img.shields.io/badge/niteCTF-Rank%2079-red?style=flat-square" />
-</p>
+<div align="center">
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F2027,50:203A43,100:2C5364&text=Advay&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%E2%80%A2%20Distributed%20Systems%20%E2%80%A2%20Real-Time%20Infrastructure&descSize=18&descAlignY=58&descAlign=50"/>
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=45&lines=Designing+systems+that+scale+under+load;Building+event-driven+architectures;Engineering+low-latency+backends;Turning+complexity+into+reliable+infrastructure"/>
 
-- 💻 **Software Developer Intern** (Remote) — building production-grade Flutter & Next.js platforms
-- ⚡ I love **real-time systems**, **event-driven pipelines**, and **low-level protocol design**
+<br/>
 
----
+<!-- Profile views + social -->
+<img src="https://komarev.com/ghpvc/?username=advyy100i&label=Profile+Views&color=00d9ff&style=flat-square" alt="views"/>
+&nbsp;
+<a href="mailto:advaygujar@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+&nbsp;
 
-## 🛠️ Tech Stack
+</div>
 
-### Languages
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            ABOUT                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `~/whoami`
+
+```yaml
+name:        Advay
+role:        Backend Engineer
+focus:       [ distributed systems, real-time infrastructure, event-driven design ]
+building:    systems where reliability, scale and data flow matter more than features
+optimizing:  high throughput • low latency • failure resilience • observability
+```
+
+I design infrastructure for **high throughput, real-time data, distributed execution, and failure resilience** — the parts of a system that stay invisible when they work and impossible to ignore when they don't.
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            STACK                                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `~/stack`
+
+<table align="center">
+<tr>
+<td align="center" width="50%" valign="top">
+
+**Languages**
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+**Backend & Streaming**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-### Databases
+</td>
+<td align="center" width="50%" valign="top">
+
+**Data Layer**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Backend & Cloud
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+**Infra & Platforms**
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
----
+**Frontend**
 
-## 📌 Featured Projects
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-### ⚡ Smart Energy Meter
-> Cost-effective 3-phase smart energy meter on **ESP32** with a custom **20-byte binary TCP protocol**, cutting telemetry payload size by **~80%** vs equivalent JSON.
-- Built a **scalable, event-driven telemetry pipeline** with Apache Kafka + a TCP ingestion service publishing readings to decoupled consumers.
-- **WebSocket** + **MongoDB** consumers enable live Flutter dashboard updates and persistent time-series storage.
+</td>
+</tr>
+</table>
 
-`Kafka` · `Custom Binary TCP Protocol` · `WebSocket` · `MongoDB` · `Flutter` · `Node.js`
+<br/>
 
-### 🔐 AEGIS — Gateway-as-a-Service
-> Secure API gateway with **API key authentication**, **per-key token-bucket rate limiting**, SHA-256 request hashing, and usage-based policy-driven access control for arbitrary HTTP APIs.
-- **Merkle-tree batching** + async Ethereum anchoring for tamper-evident audit proofs.
-- Visible response watermarking + multi-signal bot detection (**~90% accuracy**) for forensic leak attribution.
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          PROJECTS                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-`FastAPI` · `Python` · `SQLAlchemy` · `SQLite` · `Next.js` · `TypeScript` · `Tailwind CSS` · `HTTPS` · `SHA-256` · `Merkle Trees` · `Hardhat` · `Ethers.js` · `Ethereum`
+## `~/production-systems`
 
-<p align="center"><i>⭐️ Building fast, event-driven, real-world systems.</i></p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Smart Energy Telemetry
+> Real-time distributed data pipeline for energy monitoring
+
+```
+ESP32 → Binary Protocol → Kafka
+      → Services → WebSocket → Flutter
+```
+
+- Custom **20-byte binary protocol** — 80% less payload overhead
+- Kafka event ingestion built for scale
+- Real-time WebSocket streaming engine
+- MongoDB analytics + aggregation layer
+- Live Flutter control dashboard
+
+<br/>
+
+<a href="https://github.com/advyy100i/smart-meter"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ AEGIS — API Gateway Platform
+> Security, billing & observability layer for APIs
+
+```
+Full control-plane for managing
+and securing API traffic
+```
+
+- Auth + API key enforcement
+- Token-bucket **rate limiting engine**
+- Usage-based billing system
+- **Merkle tree** audit verification
+- Ethereum anchoring for tamper-proof logs
+- Traffic anomaly & bot detection
+- Response watermarking
+
+<br/>
+
+<a href="https://github.com/YOUR_USERNAME/REPO"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+
+</td>
+</tr>
+</table>
+
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        CONTRIBUTIONS                              -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                          PRINCIPLES                               -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+## `~/principles`
+
+<div align="center">
+
+`⚡ minimal latency` &nbsp; `🔁 event-driven` &nbsp; `📉 predictable under load`
+
+`🧱 failure isolation` &nbsp; `📈 horizontal scale` &nbsp; `🔍 observability-first`
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                            FOOTER                                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+
+</div>
