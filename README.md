@@ -43,27 +43,25 @@ Currently exploring distributed systems, cloud infrastructure, and large-scale s
 <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
 
 </p>
+---
+## 📌 Featured Projects
+
+### ⚡ Smart Energy Meter
+- Developed software for a cost-effective **3-phase smart energy meter** using **ESP32**.
+- Implemented a custom **20-byte binary TCP protocol**, reducing telemetry payload size by **~80%** compared to equivalent JSON messages.
+- Designed a low-latency, event-driven telemetry pipeline using **Apache Kafka** for real-time meter data ingestion.
+- Built **WebSocket** and **MongoDB** consumers to power a live Flutter dashboard and persistent telemetry storage for historical analytics.
+
+**Tech Stack:** ESP32 • Kafka • Custom Binary TCP Protocol • WebSocket • MongoDB • Flutter • Node.js
 
 ---
 
-## 📌 Featured Projects
+### 🛡️ AEGIS — Gateway-as-a-Service
+- Built a secure **API Gateway** supporting API key authentication, per-key **token bucket rate limiting**, SHA-256 request hashing, usage-based billing, and policy-driven access control.
+- Implemented **Merkle-tree batching** with asynchronous **Ethereum anchoring** for tamper-evident audit proofs.
+- Added invisible response watermarking and multi-signal bot detection (**~90% accuracy**) for forensic leak attribution.
 
-### 💬 Scalable Chat Application
-- Real-time messaging using **Socket.IO**
-- Event-driven architecture powered by **Kafka**
-- JWT authentication and PostgreSQL backend
-- Designed for horizontal scalability
-
-### 📦 Inventory & Supply Chain Management System
-- Production-grade Flutter application
-- Built for a manufacturing client
-- PostgreSQL + Supabase backend
-- Real-time inventory tracking and order management
-
-### 🤖 AI RAG Chatbot
-- Retrieval-Augmented Generation using **pgvector**
-- Semantic document search
-- LLM-powered conversational interface
+**Tech Stack:** FastAPI • Python • SQLAlchemy • Ethereum • Merkle Trees • Rate Limiting • API Security
 
 ---
 
