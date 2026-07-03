@@ -1,13 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Advay</h1>
 
 <h3 align="center">
-Software Developer | Backend & Full-Stack Engineer | Distributed Systems Enthusiast
+Software Developer • Backend Engineer • Distributed Systems
 </h3>
 
 <p align="center">
-I enjoy building scalable backend systems, real-time applications, and AI-powered products.
-Currently exploring distributed systems, cloud infrastructure, and large-scale software architecture.
+I build scalable backend systems, event-driven architectures, and real-time applications. My interests lie in distributed systems, cloud infrastructure, API design, and AI-powered software.
+</p>
+
+<p align="center">
+<a href="YOUR_LINKEDIN">LinkedIn</a> •
+<a href="YOUR_PORTFOLIO">Portfolio</a> •
+<a href="mailto:YOUR_EMAIL">Email</a> •
+<a href="YOUR_RESUME">Resume</a>
 </p>
 
 ---
@@ -15,56 +20,68 @@ Currently exploring distributed systems, cloud infrastructure, and large-scale s
 ## 🚀 About Me
 
 - 💼 Software Developer Intern at **Volcan Vision and Automatics Pvt. Ltd.**
-- 🌱 Currently learning **System Design, Cloud Infrastructure, and Distributed Systems**
-- 💬 Ask me about **C++, Node.js, React, Flutter, PostgreSQL, Kafka, Redis, Docker, and AI**
-- ⚡ Interested in **Backend Engineering, AI Applications, and Scalable Systems**
+- ⚙️ Building scalable backend systems with **Node.js, FastAPI, Kafka, PostgreSQL, Redis, Docker, and Flutter**
+- 💬 Interested in **Distributed Systems, API Gateways, Cloud Infrastructure, and AI Applications**
+- 🧩 Enjoy solving algorithmic problems in **C++**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<p align="left">
+<p align="center">
 
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="40" height="40"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://expressjs.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://flutter.dev/" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/></a>
-
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://redis.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40"/></a>
-<a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
+<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,nodejs,express,react,nextjs,flutter,postgres,mongodb,redis,docker,kafka,firebase,git,linux&perline=9"/>
 
 </p>
+
+---
 
 ## 📌 Featured Projects
 
 ### ⚡ Smart Energy Meter
-- Developed software for a cost-effective **3-phase smart energy meter** using **ESP32**.
-- Implemented a custom **20-byte binary TCP protocol**, reducing telemetry payload size by **~80%** compared to equivalent JSON messages.
-- Designed a low-latency, event-driven telemetry pipeline using **Apache Kafka** for real-time meter data ingestion.
-- Built **WebSocket** and **MongoDB** consumers to power a live Flutter dashboard and persistent telemetry storage for historical analytics.
 
-**Tech Stack:** ESP32 • Kafka • Custom Binary TCP Protocol • WebSocket • MongoDB • Flutter • Node.js
+A distributed telemetry platform for low-cost **3-phase smart energy meters**.
+
+- Reduced telemetry payload size by **~80%** using a custom **20-byte binary TCP protocol** over ESP32.
+- Designed an **Apache Kafka** event-driven ingestion pipeline for scalable real-time telemetry.
+- Built **WebSocket** and **MongoDB** consumers powering live Flutter dashboards and historical analytics.
+
+**Tech:** ESP32 • Kafka • TCP • WebSocket • MongoDB • Flutter • Node.js
 
 ---
 
 ### 🛡️ AEGIS — Gateway-as-a-Service
-- Built a secure **API Gateway** supporting API key authentication, per-key **token bucket rate limiting**, SHA-256 request hashing, usage-based billing, and policy-driven access control.
-- Implemented **Merkle-tree batching** with asynchronous **Ethereum anchoring** for tamper-evident audit proofs.
-- Added invisible response watermarking and multi-signal bot detection (**~90% accuracy**) for forensic leak attribution.
 
-**Tech Stack:** FastAPI • Python • SQLAlchemy • Ethereum • Merkle Trees • Rate Limiting • API Security
+A production-oriented API Gateway focused on security, auditing, and abuse prevention.
 
+- Implemented **API key authentication**, **token bucket rate limiting**, request hashing, usage-based billing, and policy-driven access control.
+- Built **Merkle-tree batching** with asynchronous **Ethereum anchoring** to provide tamper-evident audit proofs.
+- Developed invisible response watermarking and multi-signal bot detection achieving **~90% detection accuracy**.
 
+**Tech:** FastAPI • Python • SQLAlchemy • PostgreSQL • Ethereum • Merkle Trees
 
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
 
 </p>
 
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=advyy100i&theme=github-dark"/>
+
+</p>
+
+---
+
+## 🌱 Currently Building
+
+- Event-driven backend systems
+- AI-powered developer tools
+- High-performance APIs and distributed services
