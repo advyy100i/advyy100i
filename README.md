@@ -63,45 +63,8 @@ Currently exploring distributed systems, cloud infrastructure, and large-scale s
 
 **Tech Stack:** FastAPI • Python • SQLAlchemy • Ethereum • Merkle Trees • Rate Limiting • API Security
 
----
 
-## 📊 GitHub Stats
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" height="170"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
-
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:YOUR_EMAIL">
-Email
-</a>
-
-•
-
-<a href="https://github.com/YOUR_USERNAME">
-GitHub
-</a>
 
 </p>
 
