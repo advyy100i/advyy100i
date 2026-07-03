@@ -118,7 +118,7 @@ ESP32 → Binary Protocol → Kafka
 
 <br/>
 
-<a href="https://github.com/advyy100i/smart-meter"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/advyy100i/smart_meter"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </td>
 <td width="50%" valign="top">
@@ -141,7 +141,7 @@ and securing API traffic
 
 <br/>
 
-<a href="https://github.com/YOUR_USERNAME/REPO"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
+<a href="https://github.com/chhavi-pareek/gatekeeper"><img src="https://img.shields.io/badge/View_Repo-00D9FF?style=for-the-badge&logo=github&logoColor=black"/></a>
 
 </td>
 </tr>
