@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Advay</h1>
 
 <h3 align="center">
@@ -106,4 +106,4 @@ GitHub
 </a>
 
 </p>
-```
+
