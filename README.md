@@ -102,7 +102,7 @@ I design infrastructure for **high throughput, real-time data, distributed execu
 
 **Software Developer Intern (Remote)**
 
-📅 **Sep 2025 – Present**
+📅 **Sep 2025 – July 2026**
 
 **Tech Stack**
 
